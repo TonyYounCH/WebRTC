@@ -1,13 +1,15 @@
+<h2><strong>About</strong></h2>
+
 This code creates a video chat app with webRTC using peerJS.
 
 peerJS controls sending and receiving of video stream to/from peers with
 webRTC where as socket.io allows distinct users to share their userId and 
 broadcast signals through socket.
 
-How to run
+<h2><strong>How to run</strong></h2>
 
 
-node server.js
+    node server.js
 
 
 This will start a server with port number 3000.
@@ -22,7 +24,7 @@ You can create any room number and join it by entering : localhost:3000/roomId
 
 
 
-Reference
+<strong>Reference</strong>
 
 https://socket.io/docs/v3
 
